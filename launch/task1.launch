@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="team19" type="move_figure_of_8.py" name="task1"  output="screen">
+  </node>
+</launch>
